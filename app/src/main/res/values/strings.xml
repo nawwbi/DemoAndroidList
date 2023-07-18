@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo Android List</string>
+    <string name="textView">Android Versions</string>
+    <string name="textView2">Medium Text</string>
+    <string name="textView3">Text View</string>
+</resources>
